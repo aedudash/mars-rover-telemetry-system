@@ -1,0 +1,3 @@
+P,detected(water,100m)
+Q,not(methane,present)
+R,average(temperature,200c)

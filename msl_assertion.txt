@@ -1,0 +1,7 @@
+P,not(methane,present)
+Q,detected(water,500)
+R,all(hydrogen,1000)
+S,detected(water,100m)
+P,average(temperature,30c)
+
+

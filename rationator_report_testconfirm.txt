@@ -1,0 +1,496 @@
+============================================================
+Report for input file: lab3Data.txt
+============================================================
+
+-- Temperature --
+mean C: 25.666
+mean K: 298.816
+median C: 26.049
+median K: 299.199
+top3 K: 322.963 323.050 323.059 
+bottom3 K: 273.341 273.348 273.378 
+lowest Summer K: 273.584
+lowest Winter K: none
+
+-- Unique substances by wavelength (chronological) --
+Substance-UV (SOL 1)
+Substance-IR (SOL 1)
+
+-- Navigation --
+SOL 0  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 1  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 2  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 3  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 4  distance=7.729 m  heading=90.000 deg  time=7.313 s
+SOL 5  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 6  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 7  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 8  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 9  distance=0.294 m  heading=90.000 deg  time=7.497 s
+SOL 10  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 11  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 12  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 13  distance=8.363 m  heading=180.000 deg  time=0.177 s
+SOL 14  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 15  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 16  distance=2.390 m  heading=90.000 deg  time=3.524 s
+SOL 17  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 18  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 19  distance=0.269 m  heading=0.000 deg  time=0.350 s
+SOL 20  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 21  distance=0.459 m  heading=0.000 deg  time=0.165 s
+SOL 22  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 23  distance=3.002 m  heading=180.000 deg  time=2.220 s
+SOL 24  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 25  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 26  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 27  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 28  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 29  distance=8.002 m  heading=90.000 deg  time=2.649 s
+SOL 30  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 31  distance=3.521 m  heading=180.000 deg  time=0.182 s
+SOL 32  distance=3.344 m  heading=0.000 deg  time=7.166 s
+SOL 33  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 34  distance=0.202 m  heading=-90.000 deg  time=0.131 s
+SOL 35  distance=0.373 m  heading=0.000 deg  time=0.178 s
+SOL 36  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 37  distance=7.034 m  heading=-90.000 deg  time=1.976 s
+SOL 38  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 39  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 40  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 41  distance=4.027 m  heading=0.000 deg  time=0.358 s
+SOL 42  distance=5.876 m  heading=-90.000 deg  time=0.334 s
+SOL 43  distance=4.742 m  heading=90.000 deg  time=0.325 s
+SOL 44  distance=0.206 m  heading=90.000 deg  time=0.306 s
+SOL 45  distance=6.602 m  heading=180.000 deg  time=0.452 s
+SOL 46  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 47  distance=3.371 m  heading=180.000 deg  time=0.073 s
+SOL 48  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 49  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 50  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 51  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 52  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 53  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 54  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 55  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 56  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 57  distance=0.373 m  heading=180.000 deg  time=0.017 s
+SOL 58  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 59  distance=0.177 m  heading=-90.000 deg  time=0.476 s
+SOL 60  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 61  distance=5.481 m  heading=-90.000 deg  time=4.679 s
+SOL 62  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 63  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 64  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 65  distance=8.421 m  heading=0.000 deg  time=2.563 s
+SOL 66  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 67  distance=6.307 m  heading=0.000 deg  time=1.083 s
+SOL 68  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 69  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 70  distance=6.106 m  heading=90.000 deg  time=0.178 s
+SOL 71  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 72  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 73  distance=6.495 m  heading=0.000 deg  time=0.253 s
+SOL 74  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 75  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 76  distance=0.257 m  heading=180.000 deg  time=0.389 s
+SOL 77  distance=4.537 m  heading=-90.000 deg  time=3.459 s
+SOL 78  distance=0.254 m  heading=90.000 deg  time=1.428 s
+SOL 79  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 80  distance=8.523 m  heading=90.000 deg  time=1.162 s
+SOL 81  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 82  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 83  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 84  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 85  distance=0.090 m  heading=0.000 deg  time=3.397 s
+SOL 86  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 87  distance=0.065 m  heading=90.000 deg  time=0.118 s
+SOL 88  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 89  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 90  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 91  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 92  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 93  distance=6.306 m  heading=0.000 deg  time=3.853 s
+SOL 94  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 95  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 96  distance=9.218 m  heading=90.000 deg  time=0.017 s
+SOL 97  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 98  distance=1.831 m  heading=90.000 deg  time=0.257 s
+SOL 99  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 100  distance=0.202 m  heading=0.000 deg  time=0.122 s
+SOL 101  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 102  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 103  distance=1.857 m  heading=0.000 deg  time=4.299 s
+SOL 104  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 105  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 106  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 107  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 108  distance=0.200 m  heading=0.000 deg  time=2.815 s
+SOL 109  distance=0.210 m  heading=0.000 deg  time=9.004 s
+SOL 110  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 111  distance=0.372 m  heading=180.000 deg  time=0.143 s
+SOL 112  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 113  distance=0.213 m  heading=180.000 deg  time=8.345 s
+SOL 114  distance=0.000 m  heading=90.000 deg  time=6.933 s
+SOL 115  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 116  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 117  distance=0.079 m  heading=90.000 deg  time=0.244 s
+SOL 118  distance=9.713 m  heading=90.000 deg  time=3.517 s
+SOL 119  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 120  distance=2.222 m  heading=-90.000 deg  time=1.920 s
+SOL 121  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 122  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 123  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 124  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 125  distance=0.328 m  heading=180.000 deg  time=2.479 s
+SOL 126  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 127  distance=1.634 m  heading=0.000 deg  time=8.830 s
+SOL 128  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 129  distance=2.219 m  heading=90.000 deg  time=0.115 s
+SOL 130  distance=0.028 m  heading=90.000 deg  time=8.464 s
+SOL 131  distance=0.474 m  heading=180.000 deg  time=0.476 s
+SOL 132  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 133  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 134  distance=0.387 m  heading=180.000 deg  time=0.006 s
+SOL 135  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 136  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 137  distance=0.416 m  heading=0.000 deg  time=0.466 s
+SOL 138  distance=0.096 m  heading=0.000 deg  time=0.078 s
+SOL 139  distance=0.105 m  heading=90.000 deg  time=0.136 s
+SOL 140  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 141  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 142  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 143  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 144  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 145  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 146  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 147  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 148  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 149  distance=0.070 m  heading=90.000 deg  time=0.279 s
+SOL 150  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 151  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 152  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 153  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 154  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 155  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 156  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 157  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 158  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 159  distance=0.182 m  heading=0.000 deg  time=0.085 s
+SOL 160  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 161  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 162  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 163  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 164  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 165  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 166  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 167  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 168  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 169  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 170  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 171  distance=9.786 m  heading=0.000 deg  time=1.019 s
+SOL 172  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 173  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 174  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 175  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 176  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 177  distance=0.098 m  heading=180.000 deg  time=0.265 s
+SOL 178  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 179  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 180  distance=3.568 m  heading=90.000 deg  time=0.258 s
+SOL 181  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 182  distance=3.881 m  heading=180.000 deg  time=0.167 s
+SOL 183  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 184  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 185  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 186  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 187  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 188  distance=9.787 m  heading=90.000 deg  time=1.244 s
+SOL 189  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 190  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 191  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 192  distance=0.283 m  heading=-90.000 deg  time=0.439 s
+SOL 193  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 194  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 195  distance=1.824 m  heading=90.000 deg  time=4.082 s
+SOL 196  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 197  distance=0.201 m  heading=90.000 deg  time=0.424 s
+SOL 198  distance=0.469 m  heading=0.000 deg  time=0.149 s
+SOL 199  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 200  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 201  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 202  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 203  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 204  distance=0.036 m  heading=0.000 deg  time=0.295 s
+SOL 205  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 206  distance=0.310 m  heading=180.000 deg  time=8.345 s
+SOL 207  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 208  distance=6.827 m  heading=0.000 deg  time=1.216 s
+SOL 209  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 210  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 211  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 212  distance=0.202 m  heading=-90.000 deg  time=3.857 s
+SOL 213  distance=0.119 m  heading=180.000 deg  time=0.103 s
+SOL 214  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 215  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 216  distance=3.459 m  heading=0.000 deg  time=4.180 s
+SOL 217  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 218  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 219  distance=8.711 m  heading=90.000 deg  time=0.103 s
+SOL 220  distance=3.147 m  heading=90.000 deg  time=7.864 s
+SOL 221  distance=5.272 m  heading=0.000 deg  time=5.934 s
+SOL 222  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 223  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 224  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 225  distance=4.802 m  heading=0.000 deg  time=0.093 s
+SOL 226  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 227  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 228  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 229  distance=0.656 m  heading=-90.000 deg  time=1.608 s
+SOL 230  distance=6.514 m  heading=90.000 deg  time=0.468 s
+SOL 231  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 232  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 233  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 234  distance=0.476 m  heading=0.000 deg  time=0.025 s
+SOL 235  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 236  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 237  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 238  distance=0.490 m  heading=180.000 deg  time=3.759 s
+SOL 239  distance=8.390 m  heading=90.000 deg  time=4.325 s
+SOL 240  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 241  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 242  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 243  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 244  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 245  distance=0.186 m  heading=90.000 deg  time=7.144 s
+SOL 246  distance=0.496 m  heading=-90.000 deg  time=0.316 s
+SOL 247  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 248  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 249  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 250  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 251  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 252  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 253  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 254  distance=0.281 m  heading=180.000 deg  time=6.948 s
+SOL 255  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 256  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 257  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 258  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 259  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 260  distance=0.431 m  heading=-90.000 deg  time=2.767 s
+SOL 261  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 262  distance=4.258 m  heading=90.000 deg  time=4.987 s
+SOL 263  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 264  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 265  distance=0.541 m  heading=0.000 deg  time=3.710 s
+SOL 266  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 267  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 268  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 269  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 270  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 271  distance=9.086 m  heading=180.000 deg  time=0.239 s
+SOL 272  distance=0.496 m  heading=-90.000 deg  time=6.264 s
+SOL 273  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 274  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 275  distance=0.072 m  heading=0.000 deg  time=0.452 s
+SOL 276  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 277  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 278  distance=3.762 m  heading=180.000 deg  time=3.614 s
+SOL 279  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 280  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 281  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 282  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 283  distance=0.414 m  heading=90.000 deg  time=0.497 s
+SOL 284  distance=1.105 m  heading=-90.000 deg  time=8.823 s
+SOL 285  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 286  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 287  distance=7.940 m  heading=90.000 deg  time=2.434 s
+SOL 288  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 289  distance=0.053 m  heading=-90.000 deg  time=0.409 s
+SOL 290  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 291  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 292  distance=5.959 m  heading=180.000 deg  time=0.321 s
+SOL 293  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 294  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 295  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 296  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 297  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 298  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 299  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 300  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 301  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 302  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 303  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 304  distance=4.080 m  heading=90.000 deg  time=0.104 s
+SOL 305  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 306  distance=6.497 m  heading=90.000 deg  time=3.386 s
+SOL 307  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 308  distance=1.359 m  heading=180.000 deg  time=7.456 s
+SOL 309  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 310  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 311  distance=0.124 m  heading=-90.000 deg  time=1.887 s
+SOL 312  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 313  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 314  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 315  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 316  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 317  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 318  distance=0.117 m  heading=180.000 deg  time=0.023 s
+SOL 319  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 320  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 321  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 322  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 323  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 324  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 325  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 326  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 327  distance=0.387 m  heading=0.000 deg  time=6.266 s
+SOL 328  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 329  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 330  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 331  distance=6.370 m  heading=0.000 deg  time=4.190 s
+SOL 332  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 333  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 334  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 335  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 336  distance=0.478 m  heading=0.000 deg  time=0.161 s
+SOL 337  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 338  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 339  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 340  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 341  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 342  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 343  distance=0.100 m  heading=180.000 deg  time=0.403 s
+SOL 344  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 345  distance=0.031 m  heading=0.000 deg  time=0.450 s
+SOL 346  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 347  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 348  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 349  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 350  distance=0.289 m  heading=90.000 deg  time=5.588 s
+SOL 351  distance=7.510 m  heading=-90.000 deg  time=0.549 s
+SOL 352  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 353  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 354  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 355  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 356  distance=8.276 m  heading=180.000 deg  time=4.242 s
+SOL 357  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 358  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 359  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 360  distance=0.215 m  heading=180.000 deg  time=0.353 s
+SOL 361  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 362  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 363  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 364  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 365  distance=0.318 m  heading=180.000 deg  time=0.491 s
+SOL 366  distance=0.112 m  heading=0.000 deg  time=0.187 s
+SOL 367  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 368  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 369  distance=0.276 m  heading=0.000 deg  time=0.305 s
+SOL 370  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 371  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 372  distance=3.774 m  heading=90.000 deg  time=0.297 s
+SOL 373  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 374  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 375  distance=0.938 m  heading=90.000 deg  time=0.227 s
+SOL 376  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 377  distance=0.207 m  heading=90.000 deg  time=6.623 s
+SOL 378  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 379  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 380  distance=9.705 m  heading=0.000 deg  time=0.355 s
+SOL 381  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 382  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 383  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 384  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 385  distance=4.521 m  heading=180.000 deg  time=6.315 s
+SOL 386  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 387  distance=5.741 m  heading=90.000 deg  time=3.468 s
+SOL 388  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 389  distance=0.178 m  heading=90.000 deg  time=0.454 s
+SOL 390  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 391  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 392  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 393  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 394  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 395  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 396  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 397  distance=0.429 m  heading=90.000 deg  time=1.164 s
+SOL 398  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 399  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 400  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 401  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 402  distance=0.369 m  heading=90.000 deg  time=2.921 s
+SOL 403  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 404  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 405  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 406  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 407  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 408  distance=3.170 m  heading=0.000 deg  time=8.924 s
+SOL 409  distance=0.459 m  heading=90.000 deg  time=8.654 s
+SOL 410  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 411  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 412  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 413  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 414  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 415  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 416  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 417  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 418  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 419  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 420  distance=0.123 m  heading=90.000 deg  time=3.401 s
+SOL 421  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 422  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 423  distance=8.285 m  heading=180.000 deg  time=0.336 s
+SOL 424  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 425  distance=1.541 m  heading=90.000 deg  time=2.359 s
+SOL 426  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 427  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 428  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 429  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 430  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 431  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 432  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 433  distance=6.314 m  heading=-90.000 deg  time=0.170 s
+SOL 434  distance=0.431 m  heading=180.000 deg  time=0.352 s
+SOL 435  distance=0.114 m  heading=0.000 deg  time=5.379 s
+SOL 436  distance=0.645 m  heading=-90.000 deg  time=0.093 s
+SOL 437  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 438  distance=1.578 m  heading=180.000 deg  time=0.151 s
+SOL 439  distance=0.000 m  heading=0.000 deg  time=0.000 s
+SOL 440  distance=0.000 m  heading=0.000 deg  time=0.000 s
+
+-- 100-SOL block max distances (sorted descending) --
+9.787 m
+9.705 m
+9.218 m
+9.086 m
+8.285 m
+
+-- Propositions P–T (MSL vs Perseverance) --
+Label P:
+  MSL: P: average(temperature, 303.150 temperature)
+  PER: P: NOT average(temperature, 303.150 temperature)
+  τ(P) = ?
+Label Q:
+  MSL: Q: detected(water, 500.000 intensity)
+  PER: Q: detected(water, 500.000 intensity)
+  τ(Q) = T
+Label R:
+  MSL: R: all(hydrogen, 1000.000 intensity)
+  PER: R: all(hydrogen, 1000.000 intensity)
+  τ(R) = T
+Label S:
+  MSL: S: detected(water, 100.000 intensity)
+  PER: S: detected(water, 100.000 distance)
+  τ(S) = ?
+Label T:
+  MSL: <none>
+  PER: T: NOT average(temperature, 248.150 temperature)
+  τ(T) = F
+
+-- Arguments X, Y, Z --
+Y = R  * T + P  => ?
+X = Q * R :- S  => ?
+Z = ~S  * P  => ?
+
+
