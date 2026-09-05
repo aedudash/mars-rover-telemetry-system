@@ -1,3 +1,0 @@
-t,0.000,celsius
-d,1.000,meter,forward,1.000,meter,backward,2.000,meter,left,2.000,meter,right
-w,500.0000,nanometer,50000.0000
