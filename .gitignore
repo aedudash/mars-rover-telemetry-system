@@ -1,0 +1,39 @@
+# Build directories
+/build/
+/out/
+/cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# C/C++ compiled artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+/rover
+
+# IDE and editor files
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Runtime-generated report
+/rationator_report.txt
