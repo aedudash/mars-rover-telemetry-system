@@ -466,27 +466,27 @@ SOL 440  distance=0.000 m  heading=0.000 deg  time=0.000 s
 9.086 m
 8.285 m
 
--- Propositions P–T (MSL vs Perseverance) --
+-- Propositions P-T (MSL vs Perseverance) --
 Label P:
   MSL: P: average(temperature, 303.150 temperature)
   PER: P: NOT average(temperature, 303.150 temperature)
-  τ(P) = ?
+  tau(P) = ?
 Label Q:
   MSL: Q: detected(water, 500.000 intensity)
   PER: Q: detected(water, 500.000 intensity)
-  τ(Q) = T
+  tau(Q) = T
 Label R:
   MSL: R: all(hydrogen, 1000.000 intensity)
   PER: R: all(hydrogen, 1000.000 intensity)
-  τ(R) = T
+  tau(R) = T
 Label S:
   MSL: S: detected(water, 100.000 intensity)
   PER: S: detected(water, 100.000 distance)
-  τ(S) = ?
+  tau(S) = ?
 Label T:
   MSL: <none>
   PER: T: NOT average(temperature, 248.150 temperature)
-  τ(T) = F
+  tau(T) = F
 
 -- Arguments X, Y, Z --
 Y = R  * T + P  => ?

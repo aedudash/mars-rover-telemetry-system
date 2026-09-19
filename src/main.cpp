@@ -1,7 +1,7 @@
 // main.cpp
 // Author: Aidan Dudash
 // Project: CSIS3700 Project 4
-// Purpose: Run the rover + logic pipeline and write rationator_report.txt
+// Purpose: Run the rover + logic pipeline and write mission_report.txt
 
 #include "Robot.h"
 #include "MSLAssertionLoader.h"
@@ -91,9 +91,9 @@ int main(int argc, char** argv) {
     const std::string mslPath = argv[1];  // assertion file (any name)
     const std::string argPath = argv[2];  // argument file  (any name)
 
-    std::ofstream out("rationator_report.txt", std::ios::trunc);
+    std::ofstream out("mission_report.txt", std::ios::trunc);
     if (!out) {
-        std::cerr << "Error: could not open rationator_report.txt for writing.\n";
+        std::cerr << "Error: could not open mission_report.txt for writing.\n";
         return 1;
     }
 
@@ -105,9 +105,15 @@ int main(int argc, char** argv) {
     for (int i = 3; i < argc; ++i) {
         const std::string dataPath = argv[i];
 
-        out << "============================================================\n";
-        out << "Report for input file: " << dataPath << "\n";
-        out << "============================================================\n";
+        const std::size_t separator = dataPath.find_last_of("/\\");
+	const std::string dataFileName =
+    (separator == std::string::npos)
+        ? dataPath
+        : dataPath.substr(separator + 1);
+
+	out << "============================================================\n";
+	out << "Report for input file: " << dataFileName << "\n";
+	out << "============================================================\n";
 
         // 1) Measurement layer: Robot (temps, samples, navigation).
         Robot r;
@@ -163,7 +169,7 @@ int main(int argc, char** argv) {
 
         // 6) Logical sections in report.
 
-        out << "\n-- Propositions P–T (MSL vs Perseverance) --\n";
+        out << "\n-- Propositions P-T (MSL vs Perseverance) --\n";
         std::vector<std::string> labels = {"P","Q","R","S","T"};
         for (const auto& L : labels) {
             out << "Label " << L << ":\n";
@@ -188,7 +194,7 @@ int main(int argc, char** argv) {
             TruthValue tv = (tit == tau.end())
                             ? TruthValue::Unknown
                             : tit->second;
-            out << "  τ(" << L << ") = " << tv << "\n";
+            out << "  tau(" << L << ") = " << tv << "\n";
         }
 
         out << "\n-- Arguments X, Y, Z --\n";
@@ -199,6 +205,6 @@ int main(int argc, char** argv) {
         out << "\n\n";
     }
 
-    std::cout << "Reports written to rationator_report.txt\n";
+    std::cout << "Reports written to mission_report.txt\n";
     return 0;
 }
